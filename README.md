@@ -4,7 +4,7 @@
 
 I'm an MS Data Science student at NYU's Center for Data Science (class of 2027), working toward machine learning engineering and data science roles. The part of ML I enjoy most comes after the notebook: getting a model served, watching it for drift, explaining its decisions, and retraining it when the data changes.
 
-Right now I'm a Research Assistant at the NYU Infant Action Lab, where I manage a 40 year longitudinal behavioral dataset and build LLM assisted annotation workflows. Before NYU, I worked as a Data Analyst at Shri Lakshmi Narayana Industries in Chennai, after completing a BTech in Computer Science with an AI/ML specialization at SRM Institute of Science and Technology.
+Right now I'm a Research Assistant at the NYU Infant Action Lab, where I build a config driven ETL pipeline that merges 40+ years of infant body-measurement studies into one ML-ready dataset. Before NYU, I worked as a Data Analyst at Shri Lakshmi Narayana Industries in Chennai, after completing a BTech in Computer Science with an AI/ML specialization at SRM Institute of Science and Technology.
 
 I'm open to ML engineering and data science opportunities. If something here interests you, I'd love to hear from you at **px451@nyu.edu**.
 
@@ -31,7 +31,8 @@ flowchart LR
 
 </details>
 
-<a href="https://github.com/10padmapriya/Visual-Search-Pipeline-model"><img src="assets/visual-search.svg" alt="Visual Search Pipeline" width="100%"></a>
+<!-- When the repo has code, wrap this image in <a href="https://github.com/10padmapriya/Visual-Search-Pipeline-model"> ... </a> -->
+<img src="assets/visual-search.svg" alt="Visual Search Pipeline" width="100%">
 
 <details>
 <summary><b>See the architecture</b></summary>
@@ -61,7 +62,7 @@ flowchart LR
 ## More on my GitHub
 
 * [Customer Segmentation and Pricing Strategy](https://github.com/10padmapriya/Customer-Segmentation-Pricing-Strategy)
-* [Social Media Analysis for Nissan Motors](https://github.com/10padmapriya/Social-media-analysis-for-Nissan-Motors)
+* [Diabetic Retinopathy Detection](https://github.com/10padmapriya/Diabetic-Retinopathy-Detection-and-Classification-): ResNet50 transfer learning, 0.904 quadratic weighted kappa on 3,662 retinal images
 
 ## Toolbox
 
